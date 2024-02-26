@@ -5,7 +5,8 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #00b487;
+  color: #00af83;
+  background-color: #ffe100;
 }
 
 
@@ -27,7 +28,9 @@ body {
   height: 32rem;
 }
 
-
+.carousel-caption {
+  text-align: left;
+}
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
